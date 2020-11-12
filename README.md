@@ -5,7 +5,7 @@ I have created this small project for my new Instagram Page as an Intro.
 
 
 # Visuals
-![Alt Text](https://s7.ezgif.com/save/ezgif-7-c6e362c91b57.gif)
+![Alt Text](https://github.com/Selbee/Typing_animation_for_letters/blob/main/media/ezgif.com-video-to-gif.gif)
 
 # Installation
 - For **Typed.js**, download Zip file from: https://mattboldt.com/demos/typed-js . 
